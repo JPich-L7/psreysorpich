@@ -1,0 +1,127 @@
+.navbar a{
+    color: #3CABA7;
+}
+
+.info-header h1{
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.info-header h4{
+    font-size: 27px;
+    font-weight: 600;
+}
+
+.info-body i{
+    margin-right: 12px;
+    color: #3CABA7;
+}
+
+.info-social a{
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    display: inline-block;
+    background-color: darkgrey;
+    color: white;
+    text-align: center;
+    border-radius:15px;
+    margin-left:10px;
+    transition: all 0.6 ease 0s;
+}
+
+.info-social .profile:hover{
+    background-color: black;
+}
+.info-social .linkedin:hover{
+    background-color: #0077b5;
+}
+
+.info-social .facebook:hover{
+    background-color: #3b5998;
+}
+
+.info-social .twitter:hover{
+    background-color: #00acee;
+}
+
+.info-social .youtube:hover{
+    background-color: #FF0000;
+}
+
+
+section h2 {
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.education p{
+    font-size: 17px;
+    font-weight: 500;
+    margin:0;
+}
+
+
+.experience p{
+    font-size: 17px;
+    font-weight: 500;
+    margin: 0;
+}
+
+.mydiv{
+    height: 100px;
+    border:1px solid black; 
+}
+
+.mysubdiv {
+    height: 50px;
+    border: 1px solid #3CABA7;
+}
+
+.modal p{
+    background-color: white;
+}
+
+footer {
+    border-top: 1px solid;
+    margin-top: 15px;
+    padding-top:20px;
+}
+
+footer h4{
+    font-weight: 500;
+}
+
+footer .nav-link{
+    color: #3CABA7;
+}
+
+
+footer .profile:hover{
+    color: black;
+}
+
+footer .linkedin:hover{
+    color: #0077b5;
+}
+
+footer .facebook:hover{
+    color: #3b5998;
+}
+
+footer .twitter:hover{
+    color: #00acee;
+}
+
+footer .youtube:hover{
+    color: #FF0000;;
+}
+
+footer i{
+    margin-right: 10px;
+}
+
+footer p{
+    font-size: 12px;
+    font-weight: 700;
+}
